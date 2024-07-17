@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T18:33:39 IST" name="Default suite" finished-at="2024-07-16T18:37:03 IST" duration-ms="203536">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T18:33:39 IST" name="Default test" finished-at="2024-07-16T18:37:03 IST" duration-ms="203536">
+      <class name="CreatingProjectTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:33:38 IST" name="configBS" finished-at="2024-07-16T18:33:39 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:33:39 IST" name="configBC" finished-at="2024-07-16T18:34:10 IST" duration-ms="30679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:34:15 IST" name="configBM" finished-at="2024-07-16T18:34:30 IST" duration-ms="14909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:34:30 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:17 IST" duration-ms="106303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza_2872]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rahul3017]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:17 IST" name="configAM" finished-at="2024-07-16T18:36:18 IST" duration-ms="970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:18 IST" name="configBM" finished-at="2024-07-16T18:36:19 IST" duration-ms="871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:19 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:20 IST" duration-ms="1512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza1_5294]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ravi5184]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Completed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:20 IST" name="configAM" finished-at="2024-07-16T18:36:21 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:21 IST" name="configBM" finished-at="2024-07-16T18:36:22 IST" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:22 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:24 IST" duration-ms="2023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza2_180]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ramesh2909]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[On Going]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:24 IST" name="configAM" finished-at="2024-07-16T18:36:26 IST" duration-ms="1313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:26 IST" name="configBM" finished-at="2024-07-16T18:36:26 IST" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:26 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:28 IST" duration-ms="1550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza3_7540]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rajesh9539]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Completed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:28 IST" name="configAM" finished-at="2024-07-16T18:36:29 IST" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:29 IST" name="configBM" finished-at="2024-07-16T18:36:30 IST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:30 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:31 IST" duration-ms="1427" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza4_1315]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raja1172]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:31 IST" name="configAM" finished-at="2024-07-16T18:36:33 IST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:33 IST" name="configBM" finished-at="2024-07-16T18:36:33 IST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:33 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:34 IST" duration-ms="1171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza5_3812]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ravindra1395]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[On Going]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:35 IST" name="configAM" finished-at="2024-07-16T18:36:36 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:36 IST" name="configBM" finished-at="2024-07-16T18:36:36 IST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:36 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:38 IST" duration-ms="1236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza6_8269]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rafeeq8382]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Completed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:38 IST" name="configAM" finished-at="2024-07-16T18:36:39 IST" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:39 IST" name="configBM" finished-at="2024-07-16T18:36:40 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:40 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:41 IST" duration-ms="1152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza7_6043]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rajendra4303]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:41 IST" name="configAM" finished-at="2024-07-16T18:36:42 IST" duration-ms="1313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:42 IST" name="configBM" finished-at="2024-07-16T18:36:43 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:43 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:44 IST" duration-ms="1237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza8_4199]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raheem5530]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[On Going]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:44 IST" name="configAM" finished-at="2024-07-16T18:36:45 IST" duration-ms="1315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:45 IST" name="configBM" finished-at="2024-07-16T18:36:47 IST" duration-ms="1091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="creatingProjectTest(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:47 IST" name="creatingProjectTest" data-provider="getData" finished-at="2024-07-16T18:36:48 IST" duration-ms="968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TY-PROJ-Ninza9_4345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Robert2452]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Completed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingProjectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:48 IST" name="configAM" finished-at="2024-07-16T18:36:49 IST" duration-ms="1334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:36:49 IST" name="configAC" finished-at="2024-07-16T18:37:02 IST" duration-ms="13567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:CreatingProjectTest@5e5d171f]" started-at="2024-07-16T18:37:03 IST" name="configAS" finished-at="2024-07-16T18:37:03 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- CreatingProjectTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
